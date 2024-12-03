@@ -1,0 +1,82 @@
+Subject: Request for Leave on Monday and Tuesday for Document Collection.
+From: Jayesh Patil <jayeshnpatil03@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Dear Sir 
+I am writing to request leave on Monday and Tuesday to complete the process of collecting important documents from my college. I recently took leave to address this matter, but due to Diwali holidays and unforeseen issues at the college, I was unable to finalize the document collection.
+These documents are crucial for Next process and require my personal presence to resolve. I apologize for any inconvenience this additional leave may cause and appreciate your understanding. I have ensured my tasks are on schedule and will work diligently to make up for any missed time.
+
+I plan to return to the office on Wednesday and will focus on completing any outstanding work promptly.
+
+Thank you for your support and consideration.
+
+Best regards,
+Jayesh Patil 
+END
+
+Subject: Request for Work from Home on 19-08-2024 Due to Raksha Bandhan
+From: Jayesh Patil <jayeshnpatil03@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Dear Sir,
+
+I hope this email finds you well. I am writing to inform you that due to the Raksha Bandhan festival on 19-08-2024, I would like to request the option to work from home for that day.
+
+I assure you that I will be fully available and will complete all my tasks as scheduled.
+
+Thank you for your understanding and support.
+
+Best regards,
+Jayesh Patil
+END
+
+Subject: Request to Work from Home
+From: Jayesh Patil <jayeshnpatil03@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Dear Sir,
+
+I am writing to request permission to work from home today, 21/08/2024, due
+to a severe headache that is making it difficult for me to commute to the
+office. I have a stable internet connection and a quiet workspace at home.
+I assure you that I will attend all online sessions and complete all tasks
+assigned to me on time.
+Thank you for your understanding and consideration.
+
+Sincerely,
+Jayesh Patil
+END
+
+Subject: Performance Feedback for Jayesh Narayan Patil
+From: gunjan.sharma@bridgelabz.com
+To: jayeshnpatil03@gmail.com
+Cc: gunjan.sharma@bridgelabz.com, farzana.shaikh@bridgelabz.com, neelesh.rawat@bridgelabz.com
+
+Dear Jayesh Narayan Patil,
+
+Bridgelabz: Your performance for Week # Wk6 are as follows:
+
+Performance Status: Need Less Help, TRACK Score : 4.10
+
+Average Values so far are:
+
+Technical Ability: 0.00, Learnability: 0.00, Communicability: 0.00
+
+Remark:Technical Feedback:
+This week Jayesh completed with address book problem statement, later he 
+also started with mssql wherein he gained the understanding of various sql 
+concepts such as ddl,dml,dcl,tcl,dql commands, performed curd operations on 
+sql server as well as using python, using pyodbc connector. In the coming 
+week he will work on covid data problems and later start with bigdata and 
+hadoop concepts.
+
+Technical Summary:
+He has fine understanding of file handling operation, awareness of various 
+sql commands, joins, stored procedure, indexes,etc. His learning ability is 
+fine. Able to solve the problems with less help.
+
+Soft Skills:
+His communication and comprehension skills are fine, proactive and 
+disciplined.
+
+Review Date:
+28/09/2024
+END
+
